@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zehra-g%c3%bcl-y%c4%b1ld%c4%b1z-0ab761200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zehra-g%c3%bcl-y%c4%b1ld%c4%b1z-0ab761200/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27156101/zehra-g%c3%bcl-y%c4%b1ld%c4%b1z?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27156101/zehra-g%c3%bcl-y%c4%b1ld%c4%b1z?tab=profile" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/zehrayldz00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zehrayldz00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zehra-g%c3%bcl-y%c4%b1ld%c4%b1z-0ab761200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zehra-g%c3%bcl-y%c4%b1ld%c4%b1z-0ab761200/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/zehra-g%c3%bcl-y%c4%b1ld%c4%b1z?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zehra-g%c3%bcl-y%c4%b1ld%c4%b1z?tab=profile" height="30" width="40" /></a>
+<a href="https://dribbble.com/zehrayldz00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="zehrayldz00" height="30" width="40" /></a>
 <a href="https://medium.com/@zehragul15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zehragul15" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@zehragulyldz6195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@zehragulyldz6195" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/zehragul15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/zehragul15" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zehragulyldz6195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zehragulyldz6195" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zehragul15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zehragul15" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
