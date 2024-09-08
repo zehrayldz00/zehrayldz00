@@ -1,5 +1,3 @@
-[![MasterHead](<a href='https://www.uhdpaper.com/2024/04/anime-girl-night-city-alone-4k-2603a.html'><img src='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u3F_xLjkOVsl3xo9_qaUtOWpKmqO0Qj_TDDa0t9lwcBFi7mO7nXzwP38OBToKoQlWrpygO__HbfX7WCAYN0I8srkbkPS3duX8VY1dZyvoGNsXwt6v2kiiY22nZM8ABGlRd2lsX-sgYo4c=w919-h516-p-k-no-nu'/></a> <br/>HD Resolution Visit <a href='https://www.uhdpaper.com/2024/04/anime-girl-night-city-alone-4k-2603a.html'>https://www.uhdpaper.com/2024/04/anime-girl-night-city-alone-4k-2603a.html</a>)
-
 
 <h1 align="center">Hi🌷, I'm Zehra</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
