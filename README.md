@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/cc/44/f4/cc44f41fee8c129ab6e864e4fa0d66ba.jpg)
+[![MasterHead](https://i.pinimg.com/736x/66/5e/3f/665e3f90a907ad77f7f4caee5eceeea7.jpg)
 
 
 <h1 align="center">Hi🌷, I'm Zehra</h1>
