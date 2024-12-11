@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IJW-a0gBkfbQbLsaxf9ebuHrgFuHHGpX/view?usp=sharing](https://drive.google.com/file/d/1IJW-a0gBkfbQbLsaxf9ebuHrgFuHHGpX/view?usp=sharing)
 
-- ⚡ Fun fact **3D Printing**
+- ⚡ Fun fact **I love creating mini figures and personal designs with my 3D printer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
