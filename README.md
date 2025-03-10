@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **zehragul15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IJW-a0gBkfbQbLsaxf9ebuHrgFuHHGpX/view?usp=sharing](https://drive.google.com/file/d/1IJW-a0gBkfbQbLsaxf9ebuHrgFuHHGpX/view?usp=sharing)
-
-- ⚡ Fun fact **I love creating mini figures and personal designs with my 3D printer!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zehra-g%c3%bcl-y%c4%b1ld%c4%b1z-0ab761200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zehra-g%c3%bcl-y%c4%b1ld%c4%b1z-0ab761200/" height="30" width="40" /></a>
