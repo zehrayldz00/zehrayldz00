@@ -1,6 +1,6 @@
 <h1 align="center">Hi🌷, I'm Zehra</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
-<img align="center" src= "https://github.com/user-attachments/assets/52c8cc69-81e8-43d5-8d76-5be1e203b1f1"/>
+<img align="right" src= "https://github.com/user-attachments/assets/52c8cc69-81e8-43d5-8d76-5be1e203b1f1"/>
 
 
 - 🌼 I’m currently learning **Flutter, Java and Kotlin**
