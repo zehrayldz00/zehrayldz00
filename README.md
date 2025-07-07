@@ -1,13 +1,11 @@
-<h1 align="center">Hi🌷, I'm Zehra</h1>
+<h1 align="center">Hi, I'm Zehra</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 <img align="right" src= "https://github.com/user-attachments/assets/52c8cc69-81e8-43d5-8d76-5be1e203b1f1"/>
 
 
-- 🌼 I’m currently learning **Flutter, Java and Kotlin**
+- I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [https://medium.com/@zehragul15](https://medium.com/@zehragul15)
-
-- 📫 How to reach me **zehragul15@gmail.com**
+- How to reach me **zehragul15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
